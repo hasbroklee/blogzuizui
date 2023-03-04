@@ -1,0 +1,8 @@
+audio::-webkit-media-controls-panel {
+  background-color: #f2b7b3;
+  opacity: 0.9;
+}
+
+* {
+  scroll-behavior: smooth;
+}
