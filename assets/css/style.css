@@ -6,3 +6,7 @@ audio::-webkit-media-controls-panel {
 * {
   scroll-behavior: smooth;
 }
+
+div > div > a:hover {
+  color: rgb(65, 164, 159);
+}
